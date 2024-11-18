@@ -1,0 +1,22 @@
+
+ul{
+    display: flex;
+    gap: 2.5rem;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+ul li{
+    list-style: none;
+    list-style-type: none;
+    padding: 10px;
+    margin: 12px;
+    font-size: 25px;
+    font-weight: bold; 
+}
+ul li:hover{
+    border-bottom: 1px solid yellow;
+}

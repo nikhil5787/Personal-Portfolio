@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "role": "Front End Developer",
+      "organisation": "Neuronimbus Software Pvt Ltd.",
+      "startDate": "Jan, 2024",
+      "endDate": "july 2024",
+      "location": "Gurgaon,Haryana",
+      "experiences": [
+        "Worked on Front end Techonlogies "
+      ],
+      "imageSrc": "company/google.png"
+    },
+    {
+      "id": 2,
+      "role": "Desktop support Engineer",
+      "organisation": "Panasonic Life Solutions India",
+      "startDate": "Oct, 2022",
+      "endDate": "Dec, 2023",
+      "location": "Gurgoan, Haryana",
+      "experiences": [
+        "Worked on Windows 10 terminal",
+        "Worked on Window 11 Upcoming features"
+      ],
+      "imageSrc": "company/microsoft.png"
+    }
+   
+  ]

@@ -1,0 +1,24 @@
+[
+    {
+      "key": 1,
+      "title": "Cryptocurrency Price Tracker",
+      "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+      "description": "The primary goal of this project is to build a real-time cryptocurrency price tracking application used by React JS ."
+      
+    },
+    {
+      "key": 2,
+      "title": "Personal Portfolio",
+      "imageSrc": "https://pixabay.com/illustrations/briefcase-business-portfolio-6482909",
+      "description": "Build a Professional Portfolio by using React JS to showcase my Professional Experience and Technologies"
+     
+    },
+    {
+        "key": 3,
+        "title": "React Ecommerce Website",
+        "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
+        "description": "Developed a fully functional,user-friendly ECommerce platform this is a project made with complete React js."
+       
+      }
+     
+]

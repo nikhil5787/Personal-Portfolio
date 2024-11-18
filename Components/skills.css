@@ -1,0 +1,27 @@
+.skill{
+    width: 900px;
+}
+
+ .items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    flex-wrap: wrap;
+    /* width: 800px; */
+    margin: auto;
+  
+}
+.item{
+    width: calc(35.33%);
+    background-color: black;
+    margin: 20px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid yellow;
+    box-shadow: 5px 5px 10px  10px rgba(101,175, 10, 0.5);
+}
+img{
+    width: 70px;
+}
